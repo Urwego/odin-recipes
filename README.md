@@ -1,1 +1,1 @@
-# odin-recipes
+This project is an html project which will help to familiarize with what we have already learned such as the boilerlate of html , links , paragraphs , and the basics elements of html and also to practice git and github
